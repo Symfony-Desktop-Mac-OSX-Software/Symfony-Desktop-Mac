@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://www.iconarchive.com/download/i111602/fa-team/fontawesome-brands/FontAwesome-Brands-Symfony.1024.png" width="200" alt="Symfony Desktop macOS application icon"><br>
+<img src="https://www.redotheweb.com/images/symfony_black_03.png" width="200" alt="Symfony Desktop macOS application icon"><br>
 <a href="https://mac-share-apps.github.io/.github/Symfony%20Desktop">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Symfony Desktop macOS page">
 </a><br><br>
